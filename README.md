@@ -103,7 +103,7 @@ Integrated an AI chatbot to match clients with developers.
 ## 💡 How to Reach Me
 - **Email**: [esraa.mashaal96@gmail.com](mailto:esraa.mashaal96@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/esraamashaal](https://linkedin.com/in/esraamashaal)  
-- **GitHub**: [github.com/your-github-handle](https://github.com/your-github-handle)  
+- **GitHub**: [github.com/your-github-handle](https://github.com/EsraaRMashaal)  
 
 ---
 
