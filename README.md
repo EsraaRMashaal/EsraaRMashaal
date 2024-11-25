@@ -6,15 +6,15 @@ I am a **Senior Full Stack Developer** with over 5 years of experience building 
 ---
 
 ## 🔧 Technical Skills
-### **Frontend Development**
-- **Frameworks & Libraries**: Vue.js, Quasar, Bootstrap, Chart.js
-- **Technologies**: HTML, CSS, SCSS, JavaScript, TypeScript
-- **SPA to SSR Transitions**: Optimized performance and SEO
-
 ### **Backend Development**
 - **Languages**: Python
 - **Frameworks**: Django, Django REST Framework, GraphQL
 - **APIs**: REST, GraphQL, Third-party integrations
+
+### **Frontend Development**
+- **Frameworks & Libraries**: Vue.js, Quasar, Bootstrap, Chart.js
+- **Technologies**: HTML, CSS, SCSS, JavaScript, TypeScript
+- **SPA to SSR Transitions**: Optimized performance and SEO
 
 ### **Databases**
 - PostgreSQL, MySQL, MongoDB
