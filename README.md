@@ -78,6 +78,16 @@ A modular platform allowing businesses to customize branding.
 - **Technologies**: Vue.js, Django, Docker  
 - **Results**: Reduced development time for custom solutions by 50%.
 
+### **NTouch Platform**  
+A collaborative platform designed for university students to participate in projects, form teams, and communicate effectively.  
+- **Technologies**: Vue.js, Django, PostgreSQL  
+- **Features**:  
+  - Project creation and dynamic team-building.  
+  - Event management for university-related activities.  
+  - Integrated chat functionality for seamless collaboration.  
+- **Impact**: Empowered students to enhance teamwork, gain hands-on experience, and showcase their skills through innovative projects
+
+
 ### **Breast Cancer Detection Model**
 Developed a CNN model for histological image classification.  
 - **Accuracy**: 94%  
