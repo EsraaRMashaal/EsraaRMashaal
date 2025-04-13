@@ -1,7 +1,7 @@
 # Hi, I'm Esraa Raffik 👩‍💻
 
 ## 🌟 About Me
-I am a **Senior Full Stack Developer** with over 5 years of experience building scalable, high-performance web applications. My expertise spans across **Python**, **Django**, **Vue.js**, **Docker**, and modern DevOps tools. With a strong passion for **automation**, **AI**, and creating innovative solutions, I thrive in Agile environments and enjoy collaborating with cross-functional teams to deliver impactful products.
+I am a **Senior Full Stack Developer** with experience in building scalable, high-performance web applications. My expertise spans across **Python**, **Django**, **Vue.js**, **Docker**, and modern DevOps tools. With a strong passion for **automation**, **AI**, and creating innovative solutions, I thrive in Agile environments and enjoy collaborating with cross-functional teams to deliver impactful products.
 
 ---
 
