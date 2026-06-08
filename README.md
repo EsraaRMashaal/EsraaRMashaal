@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esraamashaal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esraa.mashaal96@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-django--filterly-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/django-filterly/)
 [![Profile Views](https://komarev.com/ghpvc/?username=esraamashaal&style=for-the-badge&color=00d4ff&label=Profile+Views)](https://github.com/esraamashaal)
 
 </div>
@@ -26,6 +27,7 @@ I'm a **Senior Full Stack Web Developer** with **6+ years** of experience buildi
 - 🎓 **Pursuing:** M.Sc. in Computers & Systems Engineering @ Mansoura University, focused on AI-driven medical diagnosis
 - 📄 **Published Researcher:** Peer-reviewed journal publication on deep learning for breast cancer segmentation
 - 🌍 **Open to:** Remote freelance, part-time, and full-time opportunities
+- 📦 **Open Source:** Published **[django-filterly](https://pypi.org/project/django-filterly/)** on PyPI — a Django filtering library for clean, declarative queryset filters
 - ⚡ **Fun fact:** I represented my company at **LEAP 2024** in Riyadh — one of the world's largest tech events
 
 ---
@@ -98,6 +100,15 @@ I'm a **Senior Full Stack Web Developer** with **6+ years** of experience buildi
 - **Stack:** Django REST · OpenAI · Analytics Dashboard
 - Structured parameter logic for content consistency and style control
 - Real-time content analytics via OpenAI-powered dashboard
+
+---
+
+### 📦 django-filterly — Published Python Package *(PyPI)*
+> A Django library for clean, reusable, and declarative queryset filtering — available on the Python Package Index.
+- **Stack:** Python · Django · PyPI
+- 🐍 Installable via `pip install django-filterly`
+- 🔗 [pypi.org/project/django-filterly](https://pypi.org/project/django-filterly/)
+- Built to simplify filter logic across Django REST APIs with minimal boilerplate
 
 ---
 
